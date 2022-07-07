@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo [kodluyoruz](https://www.kodluyoruz.org)
 ![ss](https://github.com/erenduyuk/kodluyoruzilkrepo/blob/main/images/Ekran%20Alıntısı.PNG)
-##Installation
+## Installation
 Öncelikle projeyi clonelayın.
 ' git clone https://github.com/erenduyuk/kodluyoruzilkrepo.git '
 ## Usage
